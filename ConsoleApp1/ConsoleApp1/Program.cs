@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            int result = 2 + 2;
+            Console.WriteLine($"2 + 2 = {result}");
         }
     }
 }
